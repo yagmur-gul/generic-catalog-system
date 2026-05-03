@@ -1,0 +1,20 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled executables
+program
+*.exe
+*.out
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output / runtime files
+output.txt
